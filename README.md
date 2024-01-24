@@ -1,6 +1,17 @@
 # Supermarket-Checkout-Simulation-C-
 Supermarket-Checkout-Simulation C++ - QT6
 
+Supermarket Checkout Simulation: 
+
+• Include a minimum of two checkouts 
+• Include of list of products (for simplicity no more than 10 are required) that can be “scanned” with appropriate product code, description, and price 
+• Enable items to be “scanned” using the product code 
+• Keep track of the total cost of items “scanned” for each customer 
+• Enable goods to be paid for in cash 
+• Print out a list of items “scanned” 
+• The facility to have more than two checkouts in the system 
+• Stock control
+
 Report inside the report folder
 ![1](https://github.com/hotzero1414/Supermarket-Checkout-Simulation-C-/assets/72950401/1ca9793d-f6ad-49ac-8a94-c8d669ca9e4d)
 ![Class-Diagram-Supermarket](https://github.com/hotzero1414/Supermarket-Checkout-Simulation-C-/assets/72950401/4331bd59-bb3e-4cfe-b4ac-211f423f52a0)
